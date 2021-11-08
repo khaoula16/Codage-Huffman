@@ -5,6 +5,6 @@ les membres sont:
 Boukar Khaoula
 MEDRARE Oumaima
 BOURHIM Ikram
-HEDDANI Abdelhakim
+HADDANI Abdelhakim
 AMIRACHE Hamza
 KERROU Abdessamad
